@@ -2,6 +2,6 @@
     //Representação de um espaço na memória do computador
 
 
-const buf = Buffer.from("Hello")
+const buff = Buffer.from("Hello")
 
-console.log(buf.toJSON())
+console.log(buff.toJSON())
